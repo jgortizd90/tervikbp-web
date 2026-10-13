@@ -1,0 +1,268 @@
+{
+  "line": {
+    "slug": "impermeabilizantes",
+    "name": "Impermeabilizantes",
+    "eyebrow": "LÍNEA DE PRODUCTO",
+    "tagline": "Prepara. Resana. Impermeabiliza.",
+    "description": "Acrílicos elastoméricos, asfálticos base agua y base solvente, y rollos asfálticos.",
+    "presentationLine": "4 L / 19 L — PRESENTACIONES LÍQUIDAS",
+    "categories": [
+      "Acrílicos",
+      "Asfálticos",
+      "Rollos asfálticos"
+    ]
+  },
+  "products": [
+    {
+      "slug": "impermeabilizante-acrilico-4-anos",
+      "name": "Impermeabilizante acrílico 4 años",
+      "category": "Acrílicos",
+      "role": "Impermeabiliza",
+      "traits": [
+        "Acrílico",
+        "Elastomérico",
+        "Fibratado"
+      ],
+      "base": "Agua",
+      "presentations": [
+        "4 L",
+        "19 L"
+      ],
+      "colors": [
+        "Blanco",
+        "Terracota"
+      ],
+      "image": "/images/approved/TERVIK_Impermeabilizante-Acrilico-4-Anos-19L_MASTER_2000.png",
+      "path": "/impermeabilizantes/impermeabilizante-acrilico-4-anos/"
+    },
+    {
+      "slug": "impermeabilizante-acrilico-6-anos",
+      "name": "Impermeabilizante acrílico 6 años",
+      "category": "Acrílicos",
+      "role": "Impermeabiliza",
+      "traits": [
+        "Acrílico",
+        "Elastomérico",
+        "Fibratado"
+      ],
+      "base": "Agua",
+      "presentations": [
+        "4 L",
+        "19 L"
+      ],
+      "colors": [
+        "Blanco",
+        "Terracota"
+      ],
+      "image": "/images/approved/TERVIK_Impermeabilizante-Acrilico-6-Anos-19L_MASTER_2000.png",
+      "path": "/impermeabilizantes/impermeabilizante-acrilico-6-anos/"
+    },
+    {
+      "slug": "impermeabilizante-acrilico-10-anos",
+      "name": "Impermeabilizante acrílico 10 años",
+      "category": "Acrílicos",
+      "role": "Impermeabiliza",
+      "traits": [
+        "Acrílico",
+        "Elastomérico",
+        "Fibratado"
+      ],
+      "base": "Agua",
+      "presentations": [
+        "19 L"
+      ],
+      "colors": [
+        "Blanco",
+        "Terracota"
+      ],
+      "image": "/images/approved/TERVIK_Impermeabilizante-Acrilico-10-Anos-19L_MASTER_2000.png",
+      "path": "/impermeabilizantes/impermeabilizante-acrilico-10-anos/",
+      "description": "Impermeabilizante acrílico elastomérico fibratado, base agua, para impermeabilización.",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "superficies",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "slug": "sellador-elastomerico",
+      "name": "Sellador Elastomérico",
+      "category": "Acrílicos",
+      "role": "Prepara",
+      "traits": [
+        "Acrílico",
+        "Listo para aplicar",
+        "Sellador primario"
+      ],
+      "base": "Agua",
+      "presentations": [
+        "4 L"
+      ],
+      "colors": [],
+      "image": "/images/approved/TERVIK_Sellador-Elastomerico-4L_MASTER_2000.png",
+      "path": "/impermeabilizantes/sellador-elastomerico/"
+    },
+    {
+      "slug": "cemento-plastico",
+      "name": "Cemento Plástico",
+      "category": "Acrílicos",
+      "role": "Resana",
+      "traits": [
+        "Resanador",
+        "Acrílico",
+        "Fibratado"
+      ],
+      "base": "Agua",
+      "presentations": [
+        "4 L"
+      ],
+      "colors": [],
+      "image": "/images/05-cemento-plastico-4L.webp",
+      "path": "/impermeabilizantes/cemento-plastico/"
+    },
+    {
+      "slug": "emulsion-fibratada",
+      "name": "Emulsión Fibratada",
+      "category": "Asfálticos",
+      "role": "Impermeabiliza",
+      "traits": [
+        "Emulsionado",
+        "Asfáltico",
+        "Fibratado"
+      ],
+      "base": "Agua",
+      "presentations": [
+        "4 L",
+        "19 L"
+      ],
+      "colors": [],
+      "image": "/images/approved/TERVIK_Emulsion-Fibratada-19L_MASTER_2000.png",
+      "path": "/impermeabilizantes/emulsion-fibratada/"
+    },
+    {
+      "slug": "sellador-tapaporos",
+      "name": "Sellador Tapaporos",
+      "category": "Asfálticos",
+      "role": "Prepara",
+      "traits": [
+        "Emulsionado",
+        "Asfáltico",
+        "Primario"
+      ],
+      "base": "Agua",
+      "presentations": [
+        "4 L"
+      ],
+      "colors": [],
+      "image": "/images/07-sellador-tapaporos-4L.webp",
+      "path": "/impermeabilizantes/sellador-tapaporos/"
+    },
+    {
+      "slug": "tapagoteras",
+      "name": "Tapagoteras",
+      "category": "Asfálticos",
+      "role": "Repara",
+      "traits": [
+        "Sellador",
+        "Asfáltico",
+        "Wet & Dry"
+      ],
+      "base": "Solvente",
+      "presentations": [
+        "4 L"
+      ],
+      "colors": [],
+      "image": "/images/08-tapagoteras-wet-dry-4L.webp",
+      "path": "/impermeabilizantes/tapagoteras/"
+    },
+    {
+      "slug": "brea-en-frio",
+      "name": "Brea en Frío",
+      "category": "Asfálticos",
+      "role": "Adhiere",
+      "traits": [
+        "Adhesivo",
+        "Asfáltico",
+        "Impermeable"
+      ],
+      "base": "Solvente",
+      "presentations": [
+        "19 L"
+      ],
+      "colors": [],
+      "image": "/images/09-brea-en-frio-19L.webp",
+      "path": "/impermeabilizantes/brea-en-frio/"
+    },
+    {
+      "slug": "rollo-15",
+      "name": "Rollo #15",
+      "category": "Rollos asfálticos",
+      "role": "Fieltro asfáltico",
+      "traits": [
+        "ASTM",
+        "ASTM D226",
+        "NR"
+      ],
+      "base": null,
+      "presentations": [
+        "Rollo"
+      ],
+      "colors": [],
+      "image": "/images/tervik-15-rollos-asfalticos.webp",
+      "path": "/impermeabilizantes/rollo-15/"
+    },
+    {
+      "slug": "rollo-30",
+      "name": "Rollo #30",
+      "category": "Rollos asfálticos",
+      "role": "Fieltro asfáltico",
+      "traits": [
+        "ASTM",
+        "ASTM D226",
+        "NR",
+        "Shake"
+      ],
+      "base": null,
+      "presentations": [
+        "Rollo"
+      ],
+      "colors": [],
+      "image": "/images/tervik-30-rollos-asfalticos.webp",
+      "path": "/impermeabilizantes/rollo-30/"
+    },
+    {
+      "slug": "rollo-40-base",
+      "name": "Rollo #40 Base",
+      "category": "Rollos asfálticos",
+      "role": "Base asfáltica",
+      "traits": [
+        "Base All Season",
+        "Base"
+      ],
+      "base": null,
+      "presentations": [
+        "Rollo"
+      ],
+      "colors": [],
+      "image": "/images/approved/TERVIK_Rollo-40-Base_MASTER_2000.png",
+      "path": "/impermeabilizantes/rollo-40-base/"
+    },
+    {
+      "slug": "rollo-90-mineral",
+      "name": "Rollo #90 Mineral",
+      "category": "Rollos asfálticos",
+      "role": "Acabado mineral",
+      "traits": [
+        "Mineral"
+      ],
+      "base": null,
+      "presentations": [
+        "Rollo"
+      ],
+      "colors": [],
+      "image": "/images/tervik-90-rollos-asfalticos.webp",
+      "path": "/impermeabilizantes/rollo-90-mineral/"
+    }
+  ]
+}

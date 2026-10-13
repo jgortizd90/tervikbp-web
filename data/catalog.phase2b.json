@@ -1,0 +1,1505 @@
+{
+  "version": "2026-phase2b",
+  "source": "TERVIK Catálogo de Productos, Edición 01 / 2026",
+  "lines": [
+    {
+      "slug": "impermeabilizantes",
+      "name": "Impermeabilizantes",
+      "eyebrow": "LÍNEA DE PRODUCTO",
+      "titleHtml": "IMPERMEABI<br>LIZANTES",
+      "tagline": "Prepara. Resana. Impermeabiliza.",
+      "description": "Acrílicos elastoméricos, asfálticos base agua y base solvente, y rollos asfálticos.",
+      "categories": [
+        "Acrílicos",
+        "Asfálticos",
+        "Rollos asfálticos"
+      ],
+      "heroProducts": [
+        "emulsion-fibratada",
+        "impermeabilizante-acrilico-10-anos"
+      ],
+      "metrics": [
+        {
+          "value": "13",
+          "label": "productos y grupos"
+        },
+        {
+          "value": "3",
+          "label": "subcategorías"
+        },
+        {
+          "value": "4 L / 19 L",
+          "label": "presentaciones líquidas"
+        }
+      ],
+      "listNote": "4 L / 19 L — PRESENTACIONES LÍQUIDAS",
+      "filters": [
+        "Acrílicos",
+        "Asfálticos",
+        "Rollos asfálticos"
+      ],
+      "secondaryFilters": [
+        {
+          "label": "Base agua",
+          "key": "base",
+          "value": "Agua"
+        },
+        {
+          "label": "Base solvente",
+          "key": "base",
+          "value": "Solvente"
+        }
+      ]
+    },
+    {
+      "slug": "arquitectonico",
+      "name": "Arquitectónico",
+      "eyebrow": "LÍNEA DE PRODUCTO",
+      "titleHtml": "ARQUITEC<br>TÓNICO",
+      "tagline": "Pinturas y preparación.",
+      "description": "Productos y colores de línea · base agua · acabado mate.",
+      "categories": [
+        "Pinturas",
+        "Preparación"
+      ],
+      "heroProducts": [
+        "pintura-vinilica-clasica",
+        "pintura-acrilica-profesional"
+      ],
+      "metrics": [
+        {
+          "value": "4",
+          "label": "productos"
+        },
+        {
+          "value": "2",
+          "label": "grupos"
+        },
+        {
+          "value": "BASE AGUA",
+          "label": "sistema de línea"
+        }
+      ],
+      "listNote": "PINTURAS · SELLADOR · ACABADO MATE",
+      "filters": [
+        "Pinturas",
+        "Preparación"
+      ],
+      "secondaryFilters": []
+    },
+    {
+      "slug": "esmaltes",
+      "name": "Esmaltes",
+      "eyebrow": "LÍNEA DE PRODUCTO",
+      "titleHtml": "ESMALTES",
+      "tagline": "Protección y acabado para metal y madera.",
+      "description": "Tres niveles de esmalte alquidálico y primer anticorrosivo · base solvente.",
+      "categories": [
+        "Esmaltes",
+        "Preparación"
+      ],
+      "heroProducts": [
+        "esmalte-alquidico-clasico",
+        "esmalte-alquidico-profesional"
+      ],
+      "metrics": [
+        {
+          "value": "4",
+          "label": "productos"
+        },
+        {
+          "value": "18",
+          "label": "colores de línea"
+        },
+        {
+          "value": "4 L",
+          "label": "presentación publicada"
+        }
+      ],
+      "listNote": "BASE SOLVENTE · ESMALTES Y PREPARACIÓN",
+      "filters": [
+        "Esmaltes",
+        "Preparación"
+      ],
+      "secondaryFilters": []
+    },
+    {
+      "slug": "maderas",
+      "name": "Maderas",
+      "eyebrow": "LÍNEA DE PRODUCTO",
+      "titleHtml": "MADERAS",
+      "tagline": "Preparación, protección y acabado.",
+      "description": "Barnices y preparación para conservar, entintar y proteger madera.",
+      "categories": [
+        "Barnices",
+        "Preparación"
+      ],
+      "heroProducts": [
+        "barniz-entintado",
+        "barniz-exterior"
+      ],
+      "metrics": [
+        {
+          "value": "4",
+          "label": "productos"
+        },
+        {
+          "value": "3",
+          "label": "acabados transparentes"
+        },
+        {
+          "value": "6",
+          "label": "tonos entintados"
+        }
+      ],
+      "listNote": "BARNICES · PREPARACIÓN · ACABADOS Y TONOS",
+      "filters": [
+        "Barnices",
+        "Preparación"
+      ],
+      "secondaryFilters": []
+    },
+    {
+      "slug": "aerosoles",
+      "name": "Aerosoles",
+      "eyebrow": "LÍNEA DE PRODUCTO",
+      "titleHtml": "AEROSOLES",
+      "tagline": "Convencionales y especialidades.",
+      "description": "Aerosoles de color, preparación y efectos especiales en presentación de 400 ml.",
+      "categories": [
+        "Convencionales",
+        "Especialidades"
+      ],
+      "heroProducts": [
+        "colores-convencionales",
+        "niquelados"
+      ],
+      "metrics": [
+        {
+          "value": "5",
+          "label": "categorías"
+        },
+        {
+          "value": "400 ml",
+          "label": "presentación"
+        },
+        {
+          "value": "33",
+          "label": "opciones convencionales"
+        }
+      ],
+      "listNote": "CONVENCIONALES · ESPECIALIDADES · 400 ML",
+      "filters": [
+        "Convencionales",
+        "Especialidades"
+      ],
+      "secondaryFilters": []
+    },
+    {
+      "slug": "ferreteria",
+      "name": "Ferretería",
+      "eyebrow": "LÍNEA DE PRODUCTO",
+      "titleHtml": "FERRETERÍA",
+      "tagline": "Mantenimiento, limpieza y cuidado.",
+      "description": "Productos en aerosol para cuidado, mantenimiento y limpieza.",
+      "categories": [
+        "Cuidado",
+        "Mantenimiento",
+        "Limpieza"
+      ],
+      "heroProducts": [
+        "silicon-abrillantador",
+        "limpiador-de-motores"
+      ],
+      "metrics": [
+        {
+          "value": "9",
+          "label": "productos en catálogo 2026"
+        },
+        {
+          "value": "3",
+          "label": "funciones"
+        },
+        {
+          "value": "AEROSOL",
+          "label": "formato de línea"
+        }
+      ],
+      "listNote": "MANTENIMIENTO · LIMPIEZA · CUIDADO",
+      "filters": [
+        "Cuidado",
+        "Mantenimiento",
+        "Limpieza"
+      ],
+      "secondaryFilters": []
+    }
+  ],
+  "products": [
+    {
+      "slug": "impermeabilizante-acrilico-4-anos",
+      "name": "Impermeabilizante acrílico 4 años",
+      "category": "Acrílicos",
+      "role": "Impermeabiliza",
+      "traits": [
+        "Acrílico",
+        "Elastomérico",
+        "Fibratado"
+      ],
+      "base": "Agua",
+      "presentations": [
+        "4 L",
+        "19 L"
+      ],
+      "colors": [
+        "Blanco",
+        "Terracota"
+      ],
+      "image": "/images/approved/TERVIK_Impermeabilizante-Acrilico-4-Anos-19L_MASTER_2000.png",
+      "path": "/impermeabilizantes/impermeabilizante-acrilico-4-anos/",
+      "line": "impermeabilizantes",
+      "description": "",
+      "optionsLabel": null,
+      "options": [],
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "superficies",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "slug": "impermeabilizante-acrilico-6-anos",
+      "name": "Impermeabilizante acrílico 6 años",
+      "category": "Acrílicos",
+      "role": "Impermeabiliza",
+      "traits": [
+        "Acrílico",
+        "Elastomérico",
+        "Fibratado"
+      ],
+      "base": "Agua",
+      "presentations": [
+        "4 L",
+        "19 L"
+      ],
+      "colors": [
+        "Blanco",
+        "Terracota"
+      ],
+      "image": "/images/approved/TERVIK_Impermeabilizante-Acrilico-6-Anos-19L_MASTER_2000.png",
+      "path": "/impermeabilizantes/impermeabilizante-acrilico-6-anos/",
+      "line": "impermeabilizantes",
+      "description": "",
+      "optionsLabel": null,
+      "options": [],
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "superficies",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "slug": "impermeabilizante-acrilico-10-anos",
+      "name": "Impermeabilizante acrílico 10 años",
+      "category": "Acrílicos",
+      "role": "Impermeabiliza",
+      "traits": [
+        "Acrílico",
+        "Elastomérico",
+        "Fibratado"
+      ],
+      "base": "Agua",
+      "presentations": [
+        "19 L"
+      ],
+      "colors": [
+        "Blanco",
+        "Terracota"
+      ],
+      "image": "/images/approved/TERVIK_Impermeabilizante-Acrilico-10-Anos-19L_MASTER_2000.png",
+      "path": "/impermeabilizantes/impermeabilizante-acrilico-10-anos/",
+      "description": "Impermeabilizante acrílico elastomérico fibratado, base agua, para impermeabilización.",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "superficies",
+        "vida de anaquel"
+      ],
+      "line": "impermeabilizantes",
+      "optionsLabel": null,
+      "options": [],
+      "sourceStatus": "catalog-2026"
+    },
+    {
+      "slug": "sellador-elastomerico",
+      "name": "Sellador Elastomérico",
+      "category": "Acrílicos",
+      "role": "Prepara",
+      "traits": [
+        "Acrílico",
+        "Listo para aplicar",
+        "Sellador primario"
+      ],
+      "base": "Agua",
+      "presentations": [
+        "4 L"
+      ],
+      "colors": [],
+      "image": "/images/approved/TERVIK_Sellador-Elastomerico-4L_MASTER_2000.png",
+      "path": "/impermeabilizantes/sellador-elastomerico/",
+      "line": "impermeabilizantes",
+      "description": "",
+      "optionsLabel": null,
+      "options": [],
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "superficies",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "slug": "cemento-plastico",
+      "name": "Cemento Plástico",
+      "category": "Acrílicos",
+      "role": "Resana",
+      "traits": [
+        "Resanador",
+        "Acrílico",
+        "Fibratado"
+      ],
+      "base": "Agua",
+      "presentations": [
+        "4 L"
+      ],
+      "colors": [],
+      "image": "/images/05-cemento-plastico-4L.webp",
+      "path": "/impermeabilizantes/cemento-plastico/",
+      "line": "impermeabilizantes",
+      "description": "",
+      "optionsLabel": null,
+      "options": [],
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "superficies",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "slug": "emulsion-fibratada",
+      "name": "Emulsión Fibratada",
+      "category": "Asfálticos",
+      "role": "Impermeabiliza",
+      "traits": [
+        "Emulsionado",
+        "Asfáltico",
+        "Fibratado"
+      ],
+      "base": "Agua",
+      "presentations": [
+        "4 L",
+        "19 L"
+      ],
+      "colors": [],
+      "image": "/images/approved/TERVIK_Emulsion-Fibratada-19L_MASTER_2000.png",
+      "path": "/impermeabilizantes/emulsion-fibratada/",
+      "line": "impermeabilizantes",
+      "description": "",
+      "optionsLabel": null,
+      "options": [],
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "superficies",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "slug": "sellador-tapaporos",
+      "name": "Sellador Tapaporos",
+      "category": "Asfálticos",
+      "role": "Prepara",
+      "traits": [
+        "Emulsionado",
+        "Asfáltico",
+        "Primario"
+      ],
+      "base": "Agua",
+      "presentations": [
+        "4 L"
+      ],
+      "colors": [],
+      "image": "/images/07-sellador-tapaporos-4L.webp",
+      "path": "/impermeabilizantes/sellador-tapaporos/",
+      "line": "impermeabilizantes",
+      "description": "",
+      "optionsLabel": null,
+      "options": [],
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "superficies",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "slug": "tapagoteras",
+      "name": "Tapagoteras",
+      "category": "Asfálticos",
+      "role": "Repara",
+      "traits": [
+        "Sellador",
+        "Asfáltico",
+        "Wet & Dry"
+      ],
+      "base": "Solvente",
+      "presentations": [
+        "4 L"
+      ],
+      "colors": [],
+      "image": "/images/08-tapagoteras-wet-dry-4L.webp",
+      "path": "/impermeabilizantes/tapagoteras/",
+      "line": "impermeabilizantes",
+      "description": "",
+      "optionsLabel": null,
+      "options": [],
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "superficies",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "slug": "brea-en-frio",
+      "name": "Brea en Frío",
+      "category": "Asfálticos",
+      "role": "Adhiere",
+      "traits": [
+        "Adhesivo",
+        "Asfáltico",
+        "Impermeable"
+      ],
+      "base": "Solvente",
+      "presentations": [
+        "19 L"
+      ],
+      "colors": [],
+      "image": "/images/09-brea-en-frio-19L.webp",
+      "path": "/impermeabilizantes/brea-en-frio/",
+      "line": "impermeabilizantes",
+      "description": "",
+      "optionsLabel": null,
+      "options": [],
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "superficies",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "slug": "rollo-15",
+      "name": "Rollo #15",
+      "category": "Rollos asfálticos",
+      "role": "Fieltro asfáltico",
+      "traits": [
+        "ASTM",
+        "ASTM D226",
+        "NR"
+      ],
+      "base": null,
+      "presentations": [
+        "Rollo"
+      ],
+      "colors": [],
+      "image": "/images/tervik-15-rollos-asfalticos.webp",
+      "path": "/impermeabilizantes/rollo-15/",
+      "line": "impermeabilizantes",
+      "description": "",
+      "optionsLabel": null,
+      "options": [],
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "superficies",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "slug": "rollo-30",
+      "name": "Rollo #30",
+      "category": "Rollos asfálticos",
+      "role": "Fieltro asfáltico",
+      "traits": [
+        "ASTM",
+        "ASTM D226",
+        "NR",
+        "Shake"
+      ],
+      "base": null,
+      "presentations": [
+        "Rollo"
+      ],
+      "colors": [],
+      "image": "/images/tervik-30-rollos-asfalticos.webp",
+      "path": "/impermeabilizantes/rollo-30/",
+      "line": "impermeabilizantes",
+      "description": "",
+      "optionsLabel": null,
+      "options": [],
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "superficies",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "slug": "rollo-40-base",
+      "name": "Rollo #40 Base",
+      "category": "Rollos asfálticos",
+      "role": "Base asfáltica",
+      "traits": [
+        "Base All Season",
+        "Base"
+      ],
+      "base": null,
+      "presentations": [
+        "Rollo"
+      ],
+      "colors": [],
+      "image": "/images/approved/TERVIK_Rollo-40-Base_MASTER_2000.png",
+      "path": "/impermeabilizantes/rollo-40-base/",
+      "line": "impermeabilizantes",
+      "description": "",
+      "optionsLabel": null,
+      "options": [],
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "superficies",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "slug": "rollo-90-mineral",
+      "name": "Rollo #90 Mineral",
+      "category": "Rollos asfálticos",
+      "role": "Acabado mineral",
+      "traits": [
+        "Mineral"
+      ],
+      "base": null,
+      "presentations": [
+        "Rollo"
+      ],
+      "colors": [],
+      "image": "/images/tervik-90-rollos-asfalticos.webp",
+      "path": "/impermeabilizantes/rollo-90-mineral/",
+      "line": "impermeabilizantes",
+      "description": "",
+      "optionsLabel": null,
+      "options": [],
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "superficies",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "arquitectonico",
+      "slug": "pintura-vinilica-esencial",
+      "name": "Pintura vinílica Esencial",
+      "category": "Pinturas",
+      "role": "Pintura",
+      "traits": [
+        "Vinílica",
+        "Interior",
+        "Exterior"
+      ],
+      "base": "Agua",
+      "presentations": [],
+      "colors": [
+        "Blanco",
+        "Gris Claro",
+        "Gris Oscuro",
+        "Negro",
+        "Café Claro",
+        "Tabaco",
+        "Naranja",
+        "Rojo Fuego",
+        "Rosa Mexicano",
+        "Amarillo Dorado",
+        "Amarillo Caterpillar",
+        "Crema",
+        "Azul Marino",
+        "Azul Cielo",
+        "Verde Bosque",
+        "Verde Ecológico"
+      ],
+      "description": "Buen cubrimiento y acabado uniforme.",
+      "image": "/images/arquitectonico/esencial-sin-fondo.png",
+      "path": "/arquitectonico/pintura-vinilica-esencial/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "arquitectonico",
+      "slug": "pintura-vinilica-clasica",
+      "name": "Pintura vinílica Clásica",
+      "category": "Pinturas",
+      "role": "Pintura",
+      "traits": [
+        "Vinílica",
+        "Interior",
+        "Exterior"
+      ],
+      "base": "Agua",
+      "presentations": [],
+      "colors": [
+        "Blanco",
+        "Gris Claro",
+        "Gris Oscuro",
+        "Negro",
+        "Café Claro",
+        "Tabaco",
+        "Naranja",
+        "Rojo Fuego",
+        "Rosa Mexicano",
+        "Amarillo Dorado",
+        "Amarillo Caterpillar",
+        "Crema",
+        "Azul Marino",
+        "Azul Cielo",
+        "Verde Bosque",
+        "Verde Ecológico"
+      ],
+      "description": "Mayor cubrimiento, lavabilidad y adherencia.",
+      "image": "/images/arquitectonico/clasica-sin-fondo.png",
+      "path": "/arquitectonico/pintura-vinilica-clasica/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "arquitectonico",
+      "slug": "pintura-acrilica-profesional",
+      "name": "Pintura acrílica Profesional",
+      "category": "Pinturas",
+      "role": "Pintura",
+      "traits": [
+        "Acrílica",
+        "Interior",
+        "Exterior"
+      ],
+      "base": "Agua",
+      "presentations": [],
+      "colors": [
+        "Blanco",
+        "Gris Claro",
+        "Gris Oscuro",
+        "Negro",
+        "Café Claro",
+        "Tabaco",
+        "Naranja",
+        "Rojo Fuego",
+        "Rosa Mexicano",
+        "Amarillo Dorado",
+        "Amarillo Caterpillar",
+        "Crema",
+        "Azul Marino",
+        "Azul Cielo",
+        "Verde Bosque",
+        "Verde Ecológico"
+      ],
+      "description": "Alto cubrimiento, lavabilidad y duración.",
+      "image": "/images/approved/TERVIK_Pintura-Acrilica-Profesional-19L_MASTER_2000.png",
+      "path": "/arquitectonico/pintura-acrilica-profesional/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "arquitectonico",
+      "slug": "sellador-para-muros",
+      "name": "Sellador para muros",
+      "category": "Preparación",
+      "role": "Preparación",
+      "traits": [
+        "Primario",
+        "Muros",
+        "Plafones"
+      ],
+      "base": "Agua",
+      "presentations": [],
+      "colors": [],
+      "description": "Sella poros y prepara antes de pintar.",
+      "image": "/images/arquitectonico/sellador-sin-fondo.png",
+      "path": "/arquitectonico/sellador-para-muros/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "esmaltes",
+      "slug": "esmalte-alquidico-esencial",
+      "name": "Esmalte Alquidálico Esencial",
+      "category": "Esmaltes",
+      "role": "Esencial",
+      "traits": [
+        "Alquidálico",
+        "Anticorrosivo",
+        "Alto brillo"
+      ],
+      "base": "Solvente",
+      "presentations": [
+        "4 L"
+      ],
+      "colors": [
+        "Blanco Brillante",
+        "Blanco Mate",
+        "Gris Claro",
+        "Gris Oscuro",
+        "Negro Brillante",
+        "Negro Mate",
+        "Café Claro",
+        "Tabaco",
+        "Naranja",
+        "Rojo Fuego",
+        "Rosa Mexicano",
+        "Amarillo Dorado",
+        "Amarillo Caterpillar",
+        "Crema",
+        "Azul Marino",
+        "Azul Cielo",
+        "Verde Bosque",
+        "Verde Ecológico"
+      ],
+      "description": "Nivel de entrada para metal y madera.",
+      "image": "/images/esmaltes/esencial.webp",
+      "path": "/esmaltes/esmalte-alquidico-esencial/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "esmaltes",
+      "slug": "esmalte-alquidico-clasico",
+      "name": "Esmalte Alquidálico Clásico",
+      "category": "Esmaltes",
+      "role": "Clásico",
+      "traits": [
+        "Alquidálico",
+        "Anticorrosivo",
+        "Alto brillo"
+      ],
+      "base": "Solvente",
+      "presentations": [
+        "4 L"
+      ],
+      "colors": [
+        "Blanco Brillante",
+        "Blanco Mate",
+        "Gris Claro",
+        "Gris Oscuro",
+        "Negro Brillante",
+        "Negro Mate",
+        "Café Claro",
+        "Tabaco",
+        "Naranja",
+        "Rojo Fuego",
+        "Rosa Mexicano",
+        "Amarillo Dorado",
+        "Amarillo Caterpillar",
+        "Crema",
+        "Azul Marino",
+        "Azul Cielo",
+        "Verde Bosque",
+        "Verde Ecológico"
+      ],
+      "description": "Mayor rendimiento y resistencia a la intemperie.",
+      "image": "/images/esmaltes/clasico.webp",
+      "path": "/esmaltes/esmalte-alquidico-clasico/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "esmaltes",
+      "slug": "esmalte-alquidico-profesional",
+      "name": "Esmalte Alquidálico Profesional",
+      "category": "Esmaltes",
+      "role": "Profesional",
+      "traits": [
+        "Alquidálico",
+        "Anticorrosivo",
+        "Alto brillo"
+      ],
+      "base": "Solvente",
+      "presentations": [
+        "4 L"
+      ],
+      "colors": [
+        "Blanco Brillante",
+        "Blanco Mate",
+        "Gris Claro",
+        "Gris Oscuro",
+        "Negro Brillante",
+        "Negro Mate",
+        "Café Claro",
+        "Tabaco",
+        "Naranja",
+        "Rojo Fuego",
+        "Rosa Mexicano",
+        "Amarillo Dorado",
+        "Amarillo Caterpillar",
+        "Crema",
+        "Azul Marino",
+        "Azul Cielo",
+        "Verde Bosque",
+        "Verde Ecológico"
+      ],
+      "description": "Mayor dureza, secado rápido y duración.",
+      "image": "/images/approved/TERVIK_Esmalte-Alquidalico-Profesional-4L_MASTER_2000.png",
+      "path": "/esmaltes/esmalte-alquidico-profesional/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "esmaltes",
+      "slug": "primer-anticorrosivo",
+      "name": "Primer Anticorrosivo",
+      "category": "Preparación",
+      "role": "Preparación",
+      "traits": [
+        "Alquidálico",
+        "Anticorrosivo",
+        "Mate"
+      ],
+      "base": "Solvente",
+      "presentations": [
+        "4 L"
+      ],
+      "colors": [
+        "Gris"
+      ],
+      "description": "Prepara y protege superficies metálicas.",
+      "image": "/images/esmaltes/primer-anticorrosivo.webp",
+      "path": "/esmaltes/primer-anticorrosivo/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "maderas",
+      "slug": "barniz-transparente",
+      "name": "Barniz Transparente",
+      "category": "Barnices",
+      "role": "Barnices",
+      "traits": [
+        "Transparente",
+        "Protector",
+        "Uniforme"
+      ],
+      "base": null,
+      "presentations": [],
+      "colors": [],
+      "optionsLabel": "Acabados",
+      "options": [
+        "Brillante",
+        "Satinado",
+        "Mate"
+      ],
+      "description": "Protege y conserva visible la apariencia natural.",
+      "image": "/images/maderas/barniz-transparente.webp",
+      "path": "/maderas/barniz-transparente/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "maderas",
+      "slug": "barniz-entintado",
+      "name": "Barniz Entintado",
+      "category": "Barnices",
+      "role": "Barnices",
+      "traits": [
+        "Protege",
+        "Entinta",
+        "Brillante"
+      ],
+      "base": null,
+      "presentations": [],
+      "colors": [],
+      "optionsLabel": "Tonos",
+      "options": [
+        "Natural",
+        "Pino",
+        "Roble",
+        "Nogal",
+        "Caoba",
+        "Wengué"
+      ],
+      "description": "Color y protección en una sola aplicación.",
+      "image": "/images/maderas/barniz-entintado.webp",
+      "path": "/maderas/barniz-entintado/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "maderas",
+      "slug": "barniz-exterior",
+      "name": "Barniz Exterior",
+      "category": "Barnices",
+      "role": "Barnices",
+      "traits": [
+        "Transparente",
+        "Protector UV",
+        "Alto brillo"
+      ],
+      "base": null,
+      "presentations": [],
+      "colors": [],
+      "optionsLabel": "Acabado",
+      "options": [
+        "Brillante"
+      ],
+      "description": "Protección para madera interior y exterior.",
+      "image": "/images/approved/TERVIK_Barniz-Exterior-4L_MASTER_2000.png",
+      "path": "/maderas/barniz-exterior/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "maderas",
+      "slug": "sellador-para-madera",
+      "name": "Sellador para Madera",
+      "category": "Preparación",
+      "role": "Preparación",
+      "traits": [
+        "Transparente",
+        "Alto relleno",
+        "Fácil lijado"
+      ],
+      "base": null,
+      "presentations": [],
+      "colors": [],
+      "optionsLabel": "Función",
+      "options": [
+        "Preparación"
+      ],
+      "description": "Sella poros y prepara antes del acabado.",
+      "image": "/images/maderas/sellador-para-madera.webp",
+      "path": "/maderas/sellador-para-madera/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "aerosoles",
+      "slug": "colores-convencionales",
+      "name": "Convencionales",
+      "category": "Convencionales",
+      "role": "Convencionales",
+      "traits": [
+        "Seca rápido",
+        "Aerosol",
+        "Anticorrosivo"
+      ],
+      "base": null,
+      "presentations": [
+        "400 ml"
+      ],
+      "colors": [],
+      "optionsLabel": "Opciones",
+      "options": [
+        "33 opciones de línea"
+      ],
+      "description": "Colores de línea y opciones de acabado.",
+      "image": "/images/approved/TERVIK_Aerosol-Convencional_MASTER_2000.png",
+      "path": "/aerosoles/colores-convencionales/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "aerosoles",
+      "slug": "anticorrosivos",
+      "name": "Anticorrosivos",
+      "category": "Especialidades",
+      "role": "Preparación",
+      "traits": [
+        "Primario",
+        "Protección",
+        "Aerosol"
+      ],
+      "base": null,
+      "presentations": [
+        "400 ml"
+      ],
+      "colors": [
+        "Rojo",
+        "Gris"
+      ],
+      "description": "Primarios rojo y gris para preparación.",
+      "image": "/images/aerosoles/anticorrosivos-sin-fondo.png",
+      "path": "/aerosoles/anticorrosivos/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "aerosoles",
+      "slug": "fluorescentes",
+      "name": "Fluorescentes",
+      "category": "Especialidades",
+      "role": "Especialidad",
+      "traits": [
+        "Alta visibilidad",
+        "Color",
+        "Aerosol"
+      ],
+      "base": null,
+      "presentations": [
+        "400 ml"
+      ],
+      "colors": [
+        "Amarillo",
+        "Verde",
+        "Naranja",
+        "Rosa"
+      ],
+      "description": "Amarillo, verde, naranja y rosa.",
+      "image": "/images/aerosoles/fluorescentes-sin-fondo.png",
+      "path": "/aerosoles/fluorescentes/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "aerosoles",
+      "slug": "niquelados",
+      "name": "Niquelados",
+      "category": "Especialidades",
+      "role": "Especialidad",
+      "traits": [
+        "Efecto metal",
+        "Acabado",
+        "Aerosol"
+      ],
+      "base": null,
+      "presentations": [
+        "400 ml"
+      ],
+      "colors": [],
+      "optionsLabel": "Acabados",
+      "options": [
+        "6 acabados"
+      ],
+      "description": "Platino, cromo, dorados y cobre.",
+      "image": "/images/aerosoles/niquelados-sin-fondo.png",
+      "path": "/aerosoles/niquelados/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "aerosoles",
+      "slug": "metalicos",
+      "name": "Metálicos",
+      "category": "Especialidades",
+      "role": "Especialidad",
+      "traits": [
+        "Metálico",
+        "Color",
+        "Aerosol"
+      ],
+      "base": null,
+      "presentations": [
+        "400 ml"
+      ],
+      "colors": [
+        "Verde",
+        "Azul",
+        "Ultra rojo",
+        "Negro"
+      ],
+      "description": "Verde, azul, ultra rojo y negro.",
+      "image": "/images/aerosoles/metalicos-sin-fondo.png",
+      "path": "/aerosoles/metalicos/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "ferreteria",
+      "slug": "silicon-abrillantador",
+      "name": "Silicón abrillantador",
+      "category": "Cuidado",
+      "role": "Cuidado",
+      "traits": [
+        "Brillo",
+        "Cuidado",
+        "Aerosol"
+      ],
+      "base": null,
+      "presentations": [
+        "255 cc"
+      ],
+      "colors": [],
+      "description": "",
+      "image": "/images/approved/HIUK_Silicon-Abrillantador_MASTER_2000.png",
+      "path": "/ferreteria/silicon-abrillantador/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "ferreteria",
+      "slug": "removedor-de-pintura",
+      "name": "Removedor de pintura",
+      "category": "Mantenimiento",
+      "role": "Mantenimiento",
+      "traits": [
+        "Removedor",
+        "Acción directa",
+        "Aerosol"
+      ],
+      "base": null,
+      "presentations": [
+        "350 cc"
+      ],
+      "colors": [],
+      "description": "",
+      "image": "/images/ferreteria/removedor-de-pintura-limpio.webp",
+      "path": "/ferreteria/removedor-de-pintura/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "ferreteria",
+      "slug": "limpiador-de-motores",
+      "name": "Limpiador de motores",
+      "category": "Limpieza",
+      "role": "Limpieza",
+      "traits": [
+        "Limpieza",
+        "Motor",
+        "Aerosol"
+      ],
+      "base": null,
+      "presentations": [
+        "550 ml"
+      ],
+      "colors": [],
+      "description": "",
+      "image": "/images/ferreteria/limpiador-de-motores-limpio.webp",
+      "path": "/ferreteria/limpiador-de-motores/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "ferreteria",
+      "slug": "limpiador-de-llantas",
+      "name": "Limpiador de llantas",
+      "category": "Limpieza",
+      "role": "Limpieza",
+      "traits": [
+        "Limpieza",
+        "Llantas",
+        "Aerosol"
+      ],
+      "base": null,
+      "presentations": [
+        "415 ml"
+      ],
+      "colors": [],
+      "description": "",
+      "image": "/images/ferreteria/limpiador-de-llantas-limpio.webp",
+      "path": "/ferreteria/limpiador-de-llantas/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "ferreteria",
+      "slug": "limpiador-de-tapiceria",
+      "name": "Limpiador de alfombras y tapicería",
+      "category": "Limpieza",
+      "role": "Limpieza",
+      "traits": [
+        "Alfombras",
+        "Tapicería",
+        "Aerosol"
+      ],
+      "base": null,
+      "presentations": [
+        "400 cc"
+      ],
+      "colors": [],
+      "description": "",
+      "image": "/images/ferreteria/limpiador-de-tapiceria-limpio.webp",
+      "path": "/ferreteria/limpiador-de-tapiceria/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "ferreteria",
+      "slug": "limpiador-de-carburador",
+      "name": "Limpiador de carburador",
+      "category": "Mantenimiento",
+      "role": "Mantenimiento",
+      "traits": [
+        "Carburador",
+        "Limpieza",
+        "Aerosol"
+      ],
+      "base": null,
+      "presentations": [
+        "400 ml"
+      ],
+      "colors": [],
+      "description": "",
+      "image": "/images/ferreteria/limpiador-de-carburador-limpio.webp",
+      "path": "/ferreteria/limpiador-de-carburador/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "ferreteria",
+      "slug": "abrillantador-de-llantas",
+      "name": "Abrillantador de llantas",
+      "category": "Cuidado",
+      "role": "Cuidado",
+      "traits": [
+        "Brillo",
+        "Llantas",
+        "Aerosol"
+      ],
+      "base": null,
+      "presentations": [
+        "400 ml"
+      ],
+      "colors": [],
+      "description": "",
+      "image": "/images/ferreteria/abrillantador-de-llantas-limpio.webp",
+      "path": "/ferreteria/abrillantador-de-llantas/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "ferreteria",
+      "slug": "aceite-aflojatodo",
+      "name": "Aceite aflojatodo",
+      "category": "Mantenimiento",
+      "role": "Mantenimiento",
+      "traits": [
+        "Penetrante",
+        "Mantenimiento",
+        "Aerosol"
+      ],
+      "base": null,
+      "presentations": [
+        "120 ml",
+        "300 ml"
+      ],
+      "colors": [],
+      "description": "",
+      "image": "/images/ferreteria/aceite-aflojatodo-limpio.webp",
+      "path": "/ferreteria/aceite-aflojatodo/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    },
+    {
+      "line": "ferreteria",
+      "slug": "aceite-lubricante",
+      "name": "Aceite lubricante",
+      "category": "Mantenimiento",
+      "role": "Mantenimiento",
+      "traits": [
+        "Lubricación",
+        "Mantenimiento",
+        "Aerosol"
+      ],
+      "base": null,
+      "presentations": [
+        "120 ml"
+      ],
+      "colors": [],
+      "description": "",
+      "image": "/images/ferreteria/aceite-lubricante-limpio.webp",
+      "path": "/ferreteria/aceite-lubricante/",
+      "sourceStatus": "catalog-2026",
+      "pendingTechnicalFields": [
+        "rendimiento",
+        "secado / repintado",
+        "vida de anaquel"
+      ]
+    }
+  ],
+  "legacyRoutes": [
+    {
+      "path": "/impermeabilizantes/impermeabilizante-asfaltico/",
+      "target": "/impermeabilizantes/emulsion-fibratada/",
+      "kind": "alias",
+      "note": "Historical slug preserved; current catalog product is Emulsión Fibratada."
+    },
+    {
+      "path": "/ferreteria/desengrasante-multiusos/",
+      "target": "/ferreteria/",
+      "kind": "legacy",
+      "name": "Desengrasante multiusos"
+    },
+    {
+      "path": "/ferreteria/desinfectante-bessq/",
+      "target": "/ferreteria/",
+      "kind": "legacy",
+      "name": "Desinfectante Bess’Q"
+    },
+    {
+      "path": "/ferreteria/espuma-nutriente-para-piel/",
+      "target": "/ferreteria/",
+      "kind": "legacy",
+      "name": "Espuma nutriente para piel"
+    },
+    {
+      "path": "/ferreteria/formula-marina/",
+      "target": "/ferreteria/",
+      "kind": "legacy",
+      "name": "Fórmula marina"
+    },
+    {
+      "path": "/ferreteria/gas-fenix/",
+      "target": "/ferreteria/",
+      "kind": "legacy",
+      "name": "Gas Fénix",
+      "image": "/images/ferreteria/gas-fenix-source-pending.webp",
+      "assetStatus": "~500 px source; pending replacement; no upscale/reconstruction."
+    },
+    {
+      "path": "/ferreteria/limpiador-de-vidrios/",
+      "target": "/ferreteria/",
+      "kind": "legacy",
+      "name": "Limpiador de vidrios"
+    },
+    {
+      "path": "/ferreteria/protector-anticorrosivo/",
+      "target": "/ferreteria/",
+      "kind": "legacy",
+      "name": "Protector anticorrosivo"
+    },
+    {
+      "path": "/ferreteria/shampoo-para-vehiculos/",
+      "target": "/ferreteria/",
+      "kind": "legacy",
+      "name": "Shampoo para vehículos"
+    }
+  ],
+  "documents": [
+    {
+      "label": "Catálogo 2026",
+      "path": "/downloads/catalogo-tervik-2026.pdf"
+    }
+  ]
+}
